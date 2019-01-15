@@ -1,0 +1,2 @@
+archivo arreglo. txt para prueba
+class jugador();
